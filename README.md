@@ -6,9 +6,6 @@ Computer Science Student
 
 I first started learning about computer science in elementary school, but I really fell in love with it ever since I did a computer science class in my first year of high school. Now, I am pursuing a university degree in computer science!
 
-* 🌍  I'm based in Toronto, Canada
-* 🖥️  See my portfolio at [https://david-duong.netlify.app/](http://david-duong.netlify.app/)
-
 ### Skills
 
 
