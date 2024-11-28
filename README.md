@@ -1,5 +1,5 @@
 # 👋 Hello, I'm David!
-🔭 3rd Year Computer Science Student at Toronto Metropolitan University<br>
+🔭 4th Year Computer Science Student at Toronto Metropolitan University<br>
 💡 Interested in Software Engineering, Web Development, AI, and Data Science<br><br>
 📃 My portfolio website can be found at https://david-duong.netlify.app/<br>
 ✉️ You can contact me through email at d11duong@torontomu.ca
